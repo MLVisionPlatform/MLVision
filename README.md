@@ -1,1 +1,0 @@
-Open Source AutoML Computer Vision Platform 
